@@ -5,7 +5,9 @@ import Join from "./components/Join";
 import io from "socket.io-client";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import React, { useState } from "react";
-const socket = io.connect("http://localhost:3001");
+
+const server ="http://localhost:3001"
+const socket = io.connect(server);
 
 
 
