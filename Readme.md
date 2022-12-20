@@ -1,5 +1,5 @@
 # Tic Tac Toe Online
-A simple online multiplayer Tic Tac Toe game built you can play with your friend by going to the same room ( you can try it by opnening the app twice in different tabs)
+A simple online multiplayer Tic Tac Toe game you can play with your friend by going to the same room ( you can try it by opnening the app twice in different tabs)
 ## Demo
 
 
